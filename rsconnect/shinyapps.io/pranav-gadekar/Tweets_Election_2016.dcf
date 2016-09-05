@@ -1,0 +1,9 @@
+name: Tweets_Election_2016
+account: pranav-gadekar
+server: shinyapps.io
+appId: 88322
+bundleId: 392805
+url: https://pranav-gadekar.shinyapps.io/Tweets_Election_2016/
+when: 1457680651.85775
+asMultiple: FALSE
+asStatic: FALSE
